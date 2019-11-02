@@ -5,6 +5,6 @@ This repo hosts R packages and other code templates for Trex at BIT
 TREX
 bitpac
 
-# Main contribute (to be expanded)
+# Main contributors (to be expanded)
 James Lawrence
 
