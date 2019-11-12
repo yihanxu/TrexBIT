@@ -1,0 +1,31 @@
+﻿pupilID,schoolName,schoolYear,treatmentIndividual,treatmentSchool,numberClicks,numberShortlists,numberTypes,levelOptions
+1,Aspire,9,Control,Control,2,0,0,NA
+2,Aspire,9,Pupil Activities,Control,3,1,1,1
+3,Aspire,9,Pupil Activities plus info nudges,Control,5,2,1,2
+4,Aspire,10,Control,Control,3,1,1,1
+5,Aspire,10,Pupil Activities,Control,6,2,1,2
+6,Aspire,10,Pupil Activities plus info nudges,Control,9,3,2,3
+7,Bromley,9,Control,Pupil Activities,1,0,0,NA
+8,Bromley,9,Pupil Activities,Pupil Activities,3,1,1,1
+9,Bromley,9,Pupil Activities plus info nudges,Pupil Activities,5,1,1,2
+10,Bromley,10,Control,Pupil Activities,2,2,1,1
+11,Bromley,10,Pupil Activities,Pupil Activities,6,3,2,2
+12,Bromley,10,Pupil Activities plus info nudges,Pupil Activities,7,4,2,3
+13,Bromley,11,Control,Pupil Activities,2,2,1,1
+14,Bromley,11,Pupil Activities,Pupil Activities,3,3,2,2
+15,Bromley,11,Pupil Activities plus info nudges,Pupil Activities,6,6,3,3
+16,Bromley,12,Control,Pupil Activities,1,1,1,1
+17,Bromley,12,Pupil Activities,Pupil Activities,7,3,2,2
+18,Bromley,12,Pupil Activities plus info nudges,Pupil Activities,12,4,3,2
+19,Dixons,10,Control,Pupil Activities plus info nudges,1,2,1,2
+20,Dixons,10,Pupil Activities,Pupil Activities plus info nudges,3,2,1,3
+21,Dixons,10,Pupil Activities plus info nudges,Pupil Activities plus info nudges,4,3,2,3
+22,Dixons,10,Control,Pupil Activities plus info nudges,3,1,1,1
+23,Dixons,10,Pupil Activities,Pupil Activities plus info nudges,6,4,2,2
+24,Dixons,10,Pupil Activities plus info nudges,Pupil Activities plus info nudges,11,5,3,2
+25,Dixons,11,Control,Pupil Activities plus info nudges,3,2,1,2
+26,Dixons,11,Pupil Activities,Pupil Activities plus info nudges,5,3,2,2
+27,Dixons,11,Pupil Activities plus info nudges,Pupil Activities plus info nudges,6,6,4,3
+28,Dixons,11,Control,Pupil Activities plus info nudges,2,0,0,NA
+29,Dixons,11,Pupil Activities,Pupil Activities plus info nudges,4,1,1,2
+30,Dixons,11,Pupil Activities plus info nudges,Pupil Activities plus info nudges,8,2,1,3
